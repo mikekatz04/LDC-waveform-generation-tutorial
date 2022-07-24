@@ -8,7 +8,12 @@ The only prerequisite is `conda`.
 	cd LDC-waveform-generation-tutorial
 	```
 
-2. To run install and open the notebook, run:
+2. To run install:
 	```
 	bash setup.sh
+	```
+
+3. Open the notebook:
+	```
+	jupyter notebook Waveform\ Generation.ipynb
 	```
