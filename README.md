@@ -12,7 +12,7 @@ The only prerequisite is `conda`.
 	```
 	conda create -n tutor_env -c conda-forge clang_osx-64 clangxx_osx-64 wget gsl fftw lapack=3.6.1 hdf5 numpy Cython scipy jupyter ipython  matplotlib python=3.7 --yes
 	```
-	If on Linux instead of MACOSX, substitute `clang_osx-64` and `clangxx_osx-64` with `gcc_linux-64` and `gxx_linus-64`.
+	If on Linux instead of MACOSX, substitute `clang_osx-64` and `clangxx_osx-64` with `gcc_linux-64` and `gxx_linux-64`.
 
 3. Activate the environment:
 	```
